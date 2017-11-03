@@ -17,5 +17,10 @@
         }else{
            alert('pc端')
         }
+        </script>
+      
+### 移动端头部 ###
 
-      </script>
+     //移动端必备
+
+     <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
