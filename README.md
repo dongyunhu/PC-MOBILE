@@ -5,8 +5,7 @@
 [id]:https://github.com/SeayXu "demo"
 
 ### css
-* css参考： [http://css.doyoe.com/](http://css.doyoe.com/)
-请访问: <a href="http://css.doyoe.com/" target="_blank">链接</a>
+* css参考手册： [http://css.doyoe.com/](http://css.doyoe.com/) "css"
 
 
 
