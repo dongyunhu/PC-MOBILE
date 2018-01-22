@@ -7,6 +7,7 @@
 
 ### css
 * css参考手册： [http://css.doyoe.com/](http://css.doyoe.com/) "css"
+* 爱前端常用片段： [http://www.iqianduan.net/blog/userful_css_snippet2](http://www.iqianduan.net/blog/userful_css_snippet2)  "css3"
 
 > css探索之旅：[http://blog.doyoe.com/](http://blog.doyoe.com/) "demo"
 
