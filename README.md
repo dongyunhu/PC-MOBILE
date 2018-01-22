@@ -2,11 +2,11 @@
 
 [测试链接](http:baidu.com)
 
-[测试百度链接]:http:baidu.com
+[id]:https://github.com/SeayXu "demo"
 
 ### css
 
-  * [测试百度链接]:http:baidu.com
+  * [css参考手册]:http://css.doyoe.com/ "css"
 
 
 
