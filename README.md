@@ -11,6 +11,7 @@
 
 > css探索之旅：[http://blog.doyoe.com/](http://blog.doyoe.com/) "demo"
 
+> 滚动条：[http://www.xuanfengge.com/demo/201311/scroll/css3-scroll.html](http://www.xuanfengge.com/demo/201311/scroll/css3-scroll.html) "demo"
 
 
 ### js
